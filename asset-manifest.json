@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/irpan-abdul-rahman/static/css/main.be50779e.chunk.css",
-    "main.js": "/irpan-abdul-rahman/static/js/main.baf11980.chunk.js",
-    "main.js.map": "/irpan-abdul-rahman/static/js/main.baf11980.chunk.js.map",
+    "main.js": "/irpan-abdul-rahman/static/js/main.a0802ec7.chunk.js",
+    "main.js.map": "/irpan-abdul-rahman/static/js/main.a0802ec7.chunk.js.map",
     "runtime-main.js": "/irpan-abdul-rahman/static/js/runtime-main.7e1869b6.js",
     "runtime-main.js.map": "/irpan-abdul-rahman/static/js/runtime-main.7e1869b6.js.map",
     "static/js/2.a61394e3.chunk.js": "/irpan-abdul-rahman/static/js/2.a61394e3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7e1869b6.js",
     "static/js/2.a61394e3.chunk.js",
     "static/css/main.be50779e.chunk.css",
-    "static/js/main.baf11980.chunk.js"
+    "static/js/main.a0802ec7.chunk.js"
   ]
 }
