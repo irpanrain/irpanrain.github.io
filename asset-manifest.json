@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/irpan-abdul-rahman/static/css/main.be50779e.chunk.css",
-    "main.js": "/irpan-abdul-rahman/static/js/main.a0802ec7.chunk.js",
-    "main.js.map": "/irpan-abdul-rahman/static/js/main.a0802ec7.chunk.js.map",
-    "runtime-main.js": "/irpan-abdul-rahman/static/js/runtime-main.7e1869b6.js",
-    "runtime-main.js.map": "/irpan-abdul-rahman/static/js/runtime-main.7e1869b6.js.map",
-    "static/js/2.a61394e3.chunk.js": "/irpan-abdul-rahman/static/js/2.a61394e3.chunk.js",
-    "static/js/2.a61394e3.chunk.js.map": "/irpan-abdul-rahman/static/js/2.a61394e3.chunk.js.map",
-    "static/js/3.806d4308.chunk.js": "/irpan-abdul-rahman/static/js/3.806d4308.chunk.js",
-    "static/js/3.806d4308.chunk.js.map": "/irpan-abdul-rahman/static/js/3.806d4308.chunk.js.map",
+    "main.css": "/irpan-abdul-rahman/static/css/main.43aa551f.css",
+    "main.js": "/irpan-abdul-rahman/static/js/main.bc9b05b4.js",
+    "static/js/422.37947259.chunk.js": "/irpan-abdul-rahman/static/js/422.37947259.chunk.js",
     "index.html": "/irpan-abdul-rahman/index.html",
-    "static/css/main.be50779e.chunk.css.map": "/irpan-abdul-rahman/static/css/main.be50779e.chunk.css.map",
-    "static/js/2.a61394e3.chunk.js.LICENSE.txt": "/irpan-abdul-rahman/static/js/2.a61394e3.chunk.js.LICENSE.txt"
+    "main.43aa551f.css.map": "/irpan-abdul-rahman/static/css/main.43aa551f.css.map",
+    "main.bc9b05b4.js.map": "/irpan-abdul-rahman/static/js/main.bc9b05b4.js.map",
+    "422.37947259.chunk.js.map": "/irpan-abdul-rahman/static/js/422.37947259.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e1869b6.js",
-    "static/js/2.a61394e3.chunk.js",
-    "static/css/main.be50779e.chunk.css",
-    "static/js/main.a0802ec7.chunk.js"
+    "static/css/main.43aa551f.css",
+    "static/js/main.bc9b05b4.js"
   ]
 }
